@@ -1,0 +1,28 @@
+{
+  "name": "membericondownloader",
+  "version": "1.0.0",
+  "description": "Download all member logos from your discord server.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "discord.js v13",
+    "discord member icon",
+    "member icon",
+    "discord member icon download",
+    "download icon discord"
+  ],
+  "author": "JblusItsMe",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "13.8.0",
+    "glob": "7.2.0",
+    "chalk": "4.1.2",
+    "dayjs": "1.10.7",
+    "request": "2.88.2"
+  }
+}
